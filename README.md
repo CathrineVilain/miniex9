@@ -16,5 +16,9 @@ Group flowcharts
 
 Before we could make the flowcharts we had to agree on some ideas. After a lot of brainstorming and discussion we ended up with a lot of good ideas but we decided upon these two; 
 
-![alt text](John doe.PNG)                                                   ![alt text](ignore.PNG)
+![alt text](John doe.PNG)       
+
+
+
+![alt text](ignore.PNG)
 
